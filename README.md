@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashwanikumar0555/Ashwanikumar0555/blob/main/my%20banner%202.0.jpeg)
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
 <h3 align="center">🌟 Aspiring Software Engineer | Computer Science Student | Passionate About Technology and Innovation 🌟</h3>
 
