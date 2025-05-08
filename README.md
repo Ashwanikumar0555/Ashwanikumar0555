@@ -175,7 +175,7 @@ const ashwani = {
     <tr>
       <td width="100%">
         <h3>Junior Full Stack Developer | TechSolutions Inc.</h3>
-        <p><i>January 2023 - Present</i></p>
+        <p><i>January 2024 - Present</i></p>
         <ul>
           <li>Developed and maintained responsive web applications using React, Node.js, and MongoDB</li>
           <li>Implemented RESTful APIs for seamless frontend-backend integration</li>
