@@ -3,135 +3,221 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Ashwani+Kumar;MERN+Stack+Developer;Building+the+Web+of+Tomorrow" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashwani+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Ashwani Kumar - MERN Stack Developer" /></a>
 </h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashwani-kumar-345ab1330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ashwanikumar05556@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Ashwanikumar0555"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ashwanikumar0555&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikumar0555&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwanikumar0555&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <a href="https://linkedin.com/in/ashwani-kumar-345ab1330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashwanikumar05556@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolioashwanikumar0.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Ashwanikumar0555" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<br/>
+<p align="center">
+  <b>🎓 B.Tech in Computer Science</b> &nbsp;•&nbsp; <b>🚀 Full Stack Developer</b> &nbsp;•&nbsp; <b>💡 Problem Solver</b>
+</p>
 
-<img align="right" alt="Coding Animation" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwanikumar0555&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building innovative **MERN stack** applications
-- 🌱 Expanding my expertise in **React.js**, **Node.js**, and **Express.js**
-- 🎓 B.Tech in Computer Science at Rai University (2024-2028)
-- 💼 Passionate about creating scalable web solutions that solve real problems
-- 🚀 Focused on performance optimization and responsive design
-- 📫 Let's connect: **ashwanikumar05556@gmail.com**
-- ⚡ Philosophy: **"Building digital experiences that make a difference"**
+I'm a passionate MERN Stack Developer with expertise in building modern, responsive web applications. With a strong foundation in Computer Science and a keen eye for detail, I create robust and scalable solutions that deliver exceptional user experiences.
 
-## 💻 Tech Arsenal
+```javascript
+const ashwani = {
+  location: "India",
+  education: "B.Tech in Computer Science (2024-2028)",
+  expertise: [
+    "Frontend Development",
+    "Backend Architecture",
+    "RESTful API Design",
+    "Database Management"
+  ],
+  currentFocus: "Building enterprise-grade web applications",
+  passion: "Creating intuitive user experiences that solve real problems"
+};
+```
 
-<div align="center">
-  
-### 🌐 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<br clear="right">
 
+<h2 align="center">🛠️ Technology Stack</h2>
 
-### ⚙️ Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Luxora - MERN E-commerce Platform</h3>
-      <br />
-      <a target="_blank" href="https://github.com/Ashwanikumar0555/luxora">
-        <img src="https://via.placeholder.com/500x300?text=Luxora+E-commerce" width="100%" alt="Project Screenshot"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/Ashwanikumar0555/luxora" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>  
-        <a href="https://vocal-pithivier-6af21a.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-        </a>
-      </p>
-      <p><strong>React, Node.js, Express, MongoDB, Redux, JWT</strong> - Full-featured e-commerce platform with user authentication, payment processing, admin dashboard, and responsive design.</p>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,redux,javascript,html,css" alt="Frontend Technologies" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Frontend Frameworks & Libraries" />
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">CafePulse - Coffee Shop Website</h3>
-      <br />
-      <a target="_blank" href="https://github.com/Ashwanikumar0555/Coffee-">
-        <img src="https://via.placeholder.com/500x300?text=CafePulse+Coffee+Shop" width="100%" alt="Project Screenshot"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/Ashwanikumar0555/Coffee-" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://coffee-ak.onrenbder.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-        </a>
-      </p>
-      <p><strong>React, Tailwind CSS, JavaScript</strong> - Responsive coffee shop website featuring modern UI design, smooth animations, and exceptional user experience across all devices.</p>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=docker,redis" alt="Backend Tools & Services" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Platforms</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platforms" />
+      </div>
     </td>
   </tr>
 </table>
-</div>
 
-## 📈 Coding Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanikumar0555&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="49%" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwanikumar0555&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="98%" />
-</div>
-
-<br/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ashwanikumar0555&theme=tokyonight&hide_border=true" width="49%" alt="Contribution Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwanikumar0555&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikumar0555&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwanikumar0555&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&count_private=true" width="49%" alt="GitHub Stats" />
 </div>
 
-## 🌟 Get in Touch
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanikumar0555&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Most Used Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwanikumar0555&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashwani-kumar-345ab1330/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ashwanikumar05556@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://ashwani-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
-
----
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Luxora E-commerce Platform</h3>
+        <div align="center">
+          <a href="https://vocal-pithivier-6af21a.netlify.app/" target="_blank">
+            <img src="https://github.com/Ashwanikumar0555/luxora/blob/main/frontend/src/assets/Banner.png" width="100%" alt="Luxora Project" />
+          </a>
+          <br>
+          <br>
+          <div>
+            <a href="https://github.com/Ashwanikumar0555/luxora" target="_blank">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+            </a>
+            <a href="https://vocal-pithivier-6af21a.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>React • Node.js • Express • MongoDB • Redux • JWT</strong>
+          </p>
+          <p>
+            A comprehensive e-commerce solution featuring user authentication, product management, shopping cart, secure checkout, and an admin dashboard with analytics.
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">CafePulse Coffee Shop</h3>
+        <div align="center">
+          <a href="https://coffee-ak.onrender.com/" target="_blank">
+            <img src="https://github.com/Ashwanikumar0555/Coffee-/blob/main/src/assets/banner.png.png" width="100%" alt="CafePulse Project" />
+          </a>
+          <br>
+          <br>
+          <div>
+            <a href="https://github.com/Ashwanikumar0555/Coffee-" target="_blank">
+              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+            </a>
+            <a href="https://coffee-ak.onrenbder.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>React • Tailwind CSS • JavaScript • Framer Motion</strong>
+          </p>
+          <p>
+            A modern and responsive coffee shop website featuring elegant UI design, smooth animations, menu showcase, and online ordering capabilities.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🌟 Additional Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/Ashwanikumar0555?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h3>Junior Full Stack Developer | TechSolutions Inc.</h3>
+        <p><i>January 2023 - Present</i></p>
+        <ul>
+          <li>Developed and maintained responsive web applications using React, Node.js, and MongoDB</li>
+          <li>Implemented RESTful APIs for seamless frontend-backend integration</li>
+          <li>Collaborated with design teams to translate UI/UX wireframes into fully functional components</li>
+          <li>Participated in code reviews and implemented best practices for code quality</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ashwani-kumar-345ab1330/" target="_blank">
+    <img src="https://img.icons8.com/fluency/70/000000/linkedin.png" alt="LinkedIn" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ashwanikumar05556@gmail.com">
+    <img src="https://img.icons8.com/fluency/70/000000/gmail-new.png" alt="Email" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolioashwanikumar0.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/70/000000/domain.png" alt="Portfolio" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ashwanikumar0555" target="_blank">
+    <img src="https://img.icons8.com/fluency/70/000000/github.png" alt="GitHub" width="60" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Open to new opportunities and collaborations!</h3>
+  <blockquote>
+    <p>"Creating digital experiences that merge design excellence with technical innovation."</p>
+  </blockquote>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 </div>
