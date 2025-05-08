@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on a **YouTube Clone** project
+- 🔭 Currently working on a **MERN** project
 - 🌱 Expanding my skills in **React.js** and advanced frontend frameworks
 - 🎓 Pursuing B.Tech in Computer Science at Rai University (2024-2028)
 - 💻 Detail-oriented Full Stack Developer specializing in MERN stack
