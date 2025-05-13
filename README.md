@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashwani+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Ashwani Kumar - MERN Stack Developer" /></a>
+  <a href="https://github.com/Ashwanikumar0555"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashwani+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Solutions" alt="Ashwani Kumar - MERN Stack Developer" /></a>
 </h1>
 
 <div align="center">
