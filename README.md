@@ -141,7 +141,7 @@ const ashwani = {
             <a href="https://github.com/Ashwanikumar0555/Coffee-" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
             </a>
-            <a href="https://coffee-ak.onrenbder.com" target="_blank">
+            <a href="https://coffee-ak.onrender.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
             </a>
           </div>
